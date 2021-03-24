@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/MakerDAO/token-auction.png?label=ready&title=Ready)](https://waffle.io/MakerDAO/token-auction)
 **warning: this contract is still at an early stage and is provided
 for reference only. DO NOT use it with real tokens as they may be
 permanently lost or stolen.**
